@@ -22,7 +22,7 @@ Kullanılan Malzemeler;
 
 <img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/devre-semasi.jpg" width="100%">
 
-<img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/sistem-goruntusu.jpg" width="100%">
+<img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/sistem-goruntusu.png" width="50%">
 
 Projenin Çalışma Videosu;
 
