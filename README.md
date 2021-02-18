@@ -20,7 +20,11 @@ Kullanılan Malzemeler;
 
 >Lcd Ekran
 
+Projenin Devre Şeması;
+
 <img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/devre-semasi.jpg" width="100%">
+
+Sistem Görüntüsü;
 
 <img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/sistem-goruntusu.png" width="50%">
 
