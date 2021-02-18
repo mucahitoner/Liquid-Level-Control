@@ -20,6 +20,8 @@ Kullanılan Malzemeler;
 
 >Lcd Ekran
 
+<img src="https://github.com/mucahitoner/Liquid-Level-Control/blob/main/canavar%20201.png">
+
 Projenin Çalışma Videosu;
 
 https://youtu.be/jh9D_tL5bd8
